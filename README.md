@@ -4,7 +4,7 @@
 
 ## Hi there 👋 I'm Romeo  
 
-### 🚀 Full-Stack Developer | System Designer | AI Enthusiast  
+### 🚀 Full-Stack Developer | System Designer | AI/ML Engineer
 
 💡 **About Me:**  
 I'm a passionate **Full-Stack Developer** specializing in **React, Node.js, Express**, and databases like **MySQL, MongoDB, and Redis**. Alongside web development, I have a deep interest in **System Design** and **Artificial Intelligence**, always exploring scalable architectures and AI-driven solutions.  
