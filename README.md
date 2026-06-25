@@ -4,7 +4,7 @@
 
 ## Hi there 👋 I'm Romeo  
 
-### 🚀 Full-Stack Developer | System Designer | AI/ML Engineer
+### 🚀 AI/ML & Deep Learning Engineer |Generative AI| Rag and LLm Developer|Agentic AI| System Design |
 
 💡 **About Me:**  
 AI/ML Engineer building production LLM systems and implementing deep learning research from scratch.
