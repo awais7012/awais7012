@@ -7,7 +7,16 @@
 ### 🚀 Full-Stack Developer | System Designer | AI/ML Engineer
 
 💡 **About Me:**  
-I'm a passionate **Full-Stack Developer** specializing in **React, Node.js, Express**, and databases like **MySQL, MongoDB, and Redis**. Alongside web development, I have a deep interest in **System Design** and **Artificial Intelligence**, always exploring scalable architectures and AI-driven solutions.  
+AI/ML Engineer building production LLM systems and implementing deep learning research from scratch.
+
+I specialize in transformer architectures, RAG systems, and multi-agent frameworks. I've built a GPT-style transformer from first principles in PyTorch (56.3% token accuracy), deployed RAG pipelines with semantic search, and published production libraries on PyPI.
+
+My work spans:
+- Large Language Models: Transformer implementation, prompt engineering, agentic systems
+- Computer Vision: GANs for generative modeling, image processing pipelines
+- Production ML: FastAPI backends, vector databases, distributed rate limiting
+- Signal Processing: Audio fingerprinting using STFT and constellation mapping
+
 
 
 # 💻 Tech Stack:
